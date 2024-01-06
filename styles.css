@@ -1,0 +1,29 @@
+body{
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.container {
+    width: 600px;
+    height: 200px;
+    margin: auto auto;
+    background: rgba(206, 214, 206, 0.836);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.timer {
+    width: 100%;
+    font-size: 2em;
+    display: flex;
+    justify-content: space-around;
+}
+
+.timer-title {
+    width: 100%;
+    font-size: 1.2em;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 10px;
+}
+
